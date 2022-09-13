@@ -1,0 +1,18 @@
+Dados do Cliente:
+Nome: Priscila Rodrigues
+Idade: 35
+Email: priscila20@hotmail.com
+Telefone: 954875623
+Sexo: Feminino
+========================================================
+------Endereco:-----
+Rua: Borges de medeiros
+Numero: 60
+Bairro: Feliz
+Cidade: Camaqua
+Estado: RS
+========================================================
+------Reserva:-----
+Check-in: 24/05/2021 - 02:13:12
+Check-out: 26/05/2021 - 02:13:16
+Numero de pessoas: 4 Pessoas

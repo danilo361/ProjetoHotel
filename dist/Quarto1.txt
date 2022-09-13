@@ -1,0 +1,18 @@
+Dados do Cliente:
+Nome: Danilo Rodrigues
+Idade: 33
+Email: danilo15@hotmail.com
+Telefone: 98754623
+Sexo: Mascullino
+========================================================
+------Endereco:-----
+Rua: Borges de medeiros
+Numero: 50
+Bairro: Feliz
+Cidade: Camaqua
+Estado: RS
+========================================================
+------Reserva:-----
+Check-in: 14/05/2021 - 02:11:45
+Check-out: 22/05/2021 - 02:11:48
+Numero de pessoas: 3 Pessoas
