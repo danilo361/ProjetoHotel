@@ -1,0 +1,1 @@
+Basta executar o arquivo jar no diretório dist que o sistema irá rodar.
